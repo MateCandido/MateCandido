@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Mateus dos Santos Cândido
+# Olá! 👋 Eu sou [O SEU NOME]
 
 Sou um desenvolvedor web apaixonado por transformar ideias em aplicações interativas e funcionais. Depois de mergulhar em projetos práticos, estou focado em aprofundar os meus conhecimentos no ecossistema JavaScript e em encontrar a minha primeira oportunidade no mundo da tecnologia.
 
@@ -58,6 +58,17 @@ Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
         Uma aplicação full-stack (React + json-server) que permite aos utilizadores criar "memórias" e adicionar comentários.
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">Calculadora de IMC</h3>
+      <br />
+      <p align="center">
+        <a href="https://github.com/MateCandido/IMC-React" target="_blank">
+        </a>
+      </p>
+      <p align="center">
+        Uma calculadora de IMC interativa construída com Vite + React que fornece feedback visual com base no resultado.
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -67,5 +78,5 @@ Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mateus-cândido-b8b06a280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
-<a href="mailto:mateuscandido751@gmail.com" target="blank"><img align="center" alt="mateuscandido751@gmail.com" height="30" width="40" /></a>
+<a href="mailto:mateuscandido751@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mateuscandido751@gmail.com" height="30" width="40" /></a>
 </p>

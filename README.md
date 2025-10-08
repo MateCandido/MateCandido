@@ -49,37 +49,6 @@ Currently, I'm focusing on solidifying my fundamentals and exploring:
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Memories App</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/MateCandido/Blog-Memories" target="_blank">
-        </a>
-      </p>
-      <p align="center">
-        A full-stack application (React + json-server) that allows users to create "memories" and add comments.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">BMI Calculator</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/MateCandido/IMC-React" target="_blank">
-        </a>
-      </p>
-      <p align="center">
-        An interactive BMI calculator built with Vite + React that provides visual feedback based on the result.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📫 Get in Touch
 
 <p align="left">

@@ -1,16 +1,84 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Mateus dos Santos Cândido
 
-<!--
-**MateCandido/MateCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor web apaixonado por transformar ideias em aplicações interativas e funcionais. Depois de mergulhar em projetos práticos, estou focado em aprofundar os meus conhecimentos no ecossistema JavaScript e em encontrar a minha primeira oportunidade no mundo da tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 O que estou a aprender
+
+Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
+- **TypeScript:** Para adicionar tipagem estática e robustez aos meus projetos.
+- **Bases de Dados:** A aprofundar conhecimentos em SQL (PostgreSQL) e NoSQL (MongoDB).
+- **Testes Automatizados:** A aprender Jest e React Testing Library.
+
+---
+
+### 🚀 Os Meus Projetos Principais
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Memories App</h3>
+      <br />
+      <p align="center">
+        <a href="[LINK_PARA_O_SEU_REPOSITORIO_MEMORIES]" target="_blank">
+          <img src="[URL_PARA_UM_SCREENSHOT_DO_PROJETO_MEMORIES]" alt="Projeto Memories"/>
+        </a>
+      </p>
+      <p align="center">
+        Uma aplicação full-stack (React + json-server) que permite aos utilizadores criar "memórias" e adicionar comentários.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Calculadora de IMC</h3>
+      <br />
+      <p align="center">
+        <a href="[LINK_PARA_O_SEU_REPOSITORIO_IMC_CALC]" target="_blank">
+          <img src="[URL_PARA_UM_SCREENSHOT_DA_CALCULADORA]" alt="Projeto Calculadora IMC"/>
+        </a>
+      </p>
+      <p align="center">
+        Uma calculadora de IMC interativa construída com Vite + React que fornece feedback visual com base no resultado.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Contacte-me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mateus-cândido-b8b06a280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
+<a href="mailto:mateuscandido751@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="seu-email" height="30" width="40" /></a>
+</p>

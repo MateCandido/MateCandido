@@ -1,18 +1,18 @@
-# Olá! 👋 Eu sou Mateus dos Santos Cândido
+# Hello! 👋 I'm Mateus dos Santos Cândido
 
-Sou um desenvolvedor web apaixonado por transformar ideias em aplicações interativas e funcionais. Depois de mergulhar em projetos práticos, estou focado em aprofundar os meus conhecimentos no ecossistema JavaScript e em encontrar a minha primeira oportunidade no mundo da tecnologia.
+I'm a web developer passionate about turning ideas into interactive and functional applications. After diving into hands-on projects, I'm currently focused on deepening my knowledge of the JavaScript ecosystem and finding my first opportunity in the tech world.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateCandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MateCandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateCandido&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateCandido&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
 </p>
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
+Here are some of the technologies I've been working with recently:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -40,16 +40,16 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 ---
 
-### 🌱 O que estou a aprender
+### 🌱 What I'm Learning
 
-Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
-- **TypeScript:** Para adicionar tipagem estática e robustez aos meus projetos.
-- **Bases de Dados:** A aprofundar conhecimentos em SQL (PostgreSQL) e NoSQL (MongoDB).
-- **Testes Automatizados:** A aprender Jest e React Testing Library.
+Currently, I'm focusing on solidifying my fundamentals and exploring:
+- **TypeScript:** To add static typing and robustness to my projects.
+- **Databases:** Deepening my knowledge of SQL (PostgreSQL) and NoSQL (MongoDB).
+- **Automated Testing:** Learning Jest and React Testing Library.
 
 ---
 
-### 🚀 Os Meus Projetos Principais
+### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -61,18 +61,18 @@ Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
         </a>
       </p>
       <p align="center">
-        Uma aplicação full-stack (React + json-server) que permite aos utilizadores criar "memórias" e adicionar comentários.
+        A full-stack application (React + json-server) that allows users to create "memories" and add comments.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Calculadora de IMC</h3>
+      <h3 align="center">BMI Calculator</h3>
       <br />
       <p align="center">
         <a href="https://github.com/MateCandido/IMC-React" target="_blank">
         </a>
       </p>
       <p align="center">
-        Uma calculadora de IMC interativa construída com Vite + React que fornece feedback visual com base no resultado.
+        An interactive BMI calculator built with Vite + React that provides visual feedback based on the result.
       </p>
     </td>
   </tr>
@@ -80,7 +80,7 @@ Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
 
 ---
 
-### 📫 Contacte-me
+### 📫 Get in Touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-cândido-b8b06a280" target="_blank">

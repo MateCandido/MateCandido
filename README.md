@@ -4,6 +4,12 @@ Sou um desenvolvedor web apaixonado por transformar ideias em aplicações inter
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateCandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateCandido&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
+</p>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:

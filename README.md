@@ -83,6 +83,10 @@ Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
 ### 📫 Contacte-me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mateus-cândido-b8b06a280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
-<a href="mailto:mateuscandido751@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mateuscandido751@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mateus-cândido-b8b06a280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mateuscandido751@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>

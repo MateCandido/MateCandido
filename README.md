@@ -51,24 +51,11 @@ Atualmente, estou a focar-me em solidificar as minhas bases e a explorar:
       <h3 align="center">Memories App</h3>
       <br />
       <p align="center">
-        <a href="[LINK_PARA_O_SEU_REPOSITORIO_MEMORIES]" target="_blank">
-          <img src="[URL_PARA_UM_SCREENSHOT_DO_PROJETO_MEMORIES]" alt="Projeto Memories"/>
+        <a href="https://github.com/MateCandido/Blog-Memories" target="_blank">
         </a>
       </p>
       <p align="center">
         Uma aplicação full-stack (React + json-server) que permite aos utilizadores criar "memórias" e adicionar comentários.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Calculadora de IMC</h3>
-      <br />
-      <p align="center">
-        <a href="[LINK_PARA_O_SEU_REPOSITORIO_IMC_CALC]" target="_blank">
-          <img src="[URL_PARA_UM_SCREENSHOT_DA_CALCULADORA]" alt="Projeto Calculadora IMC"/>
-        </a>
-      </p>
-      <p align="center">
-        Uma calculadora de IMC interativa construída com Vite + React que fornece feedback visual com base no resultado.
       </p>
     </td>
   </tr>

@@ -4,7 +4,7 @@ I'm a web developer passionate about turning ideas into interactive and function
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateCandido&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateCandido&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Tech Stack
 

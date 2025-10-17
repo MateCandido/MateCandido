@@ -34,16 +34,6 @@ Here are some of the technologies I've been working with recently:
   </a>
 </p>
 
----
-
-### 🌱 What I'm Learning
-
-Currently, I'm focusing on solidifying my fundamentals and exploring:
-- **TypeScript:** To add static typing and robustness to my projects.
-- **Databases:** Deepening my knowledge of SQL (PostgreSQL) and NoSQL (MongoDB).
-- **Automated Testing:** Learning Jest and React Testing Library.
-
----
 
 ### 📫 Get in Touch
 
